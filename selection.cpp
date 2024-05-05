@@ -17,10 +17,8 @@ int main(){
     }
 
     // teneri 
-
     bool hasil = ( a < b) ?  true : false;
     cout << "Tarnary nilai "<< boolalpha << hasil << endl;
-
     char nilai = 'C';
 
     switch(nilai){
